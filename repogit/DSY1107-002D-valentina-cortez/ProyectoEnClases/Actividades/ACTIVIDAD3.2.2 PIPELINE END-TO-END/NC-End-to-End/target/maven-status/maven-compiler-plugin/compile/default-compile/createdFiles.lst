@@ -1,0 +1,5 @@
+com\banco\controller\SimuladorController.class
+com\banco\model\Transaccion.class
+com\banco\config\PipelineTopology.class
+com\banco\model\AlertaFraude.class
+com\banco\BancoApplication.class
